@@ -7,6 +7,13 @@ text-decoration: none;
 }
 body{
     height: 100vh;
-text-align: center;
+/* text-align: center; */
 overflow-x: hidden;
+background-color: aquamarine;
+}
+
+.header{
+display: flex;
+
+
 }
